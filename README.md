@@ -29,4 +29,5 @@ Analyze spend distribution by region to support operational and logistics planni
 2.total_Spend_all_months.csv – Base dataset (invoice-level records)  
 3.README.md – Project documentation  
 4./images – Screenshots and thumbnail assets  
-5.[Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=3fb2c85d-2a86-4d97-9d47-7ac6a93d4d5f&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4) 
+5.[Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=3fb2c85d-2a86-4d97-9d47-7ac6a93d4d5f&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)  
+6.[Pdf](https://github.com/suma-deepthi/Dept_Of_Finance_Spend_Analysis/blob/main/Department_of_Finance.pdf) 
